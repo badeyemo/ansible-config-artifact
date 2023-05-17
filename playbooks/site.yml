@@ -9,5 +9,4 @@
 
 - hosts: webservers
 - name: Webserver assignment
-  import_playbook: ../static-assignments/webservers.ymlear
-  
+  import_playbook: ../static-assignments/webservers.yml
